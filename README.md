@@ -46,6 +46,24 @@ REST API를 활용한 대출 상품 추천 서비스
 <br/>
 <br/>
 <br/>
+
+### 모든 페이지에서 상품이 없을 경우
+
+<img src="https://github.com/1myeji/mini-project-fe/assets/106291546/a3424674-27ab-4e01-9fe9-21524f52e3c6" width="30%"/>
+
+빈화면을 구성하여 사용자에게 다음 행동에 대한 힌트와 함께 정보를 제공해주었습니다.
+<br/>
+<br/>
+<br/>
+<br/>
+### 로딩중일 때, Skeleton UI
+<img src="https://github.com/1myeji/mini-project-fe/assets/106291546/5f9e56e6-66b2-4508-893b-ad0697a790d1" width="30%"/>
+
+더 나은 사용자 경험(UX)을 위해 Skeleton 컴포넌트를 만들어 로딩 중일 때, Skeleton UI를 적용하였습니다.
+<br/>
+<br/>
+<br/>
+<br/>
 ## 팀원
 
 | <center>[황이삭](https://github.com/hwisaac)</center>                         | <center>[배현수](https://github.com/HyunSooBae)</center>            | <center>[임예지](https://github.com/1myeji)</center>                      | <center>[홍혜원](https://github.com/Wonny-ing)</center>                         |                      |
